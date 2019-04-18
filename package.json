@@ -1,0 +1,15 @@
+{
+  "name": "chatbot-dialogflow",
+  "version": "1.0.0",
+  "description": "chatbot with dialogflow",
+  "scripts": {
+    "start": "node webhook.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "2.88.0",
+    "restify": "8.3.0"
+  }
+}
